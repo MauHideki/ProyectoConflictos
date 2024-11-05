@@ -1,3 +1,3 @@
 Introducción Hola DGTIC
--Descripción UAEM
+Detalles UAEM
 Finalización Adios FCAEI
